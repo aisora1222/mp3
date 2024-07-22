@@ -1,9 +1,11 @@
 {
-  "cars": [
+  "posts": [
     {
       "id": 1,
-      "manufacturer": "Audi",
-      "name": "R8"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
