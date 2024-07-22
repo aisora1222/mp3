@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "cars": [
     {
       "id": 1,
-      "title": "hello"
+      "brand": "Audi",
+      "model": "R8"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
