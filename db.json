@@ -6,7 +6,7 @@
     { "id": 4, "title": "Done" }
   ],
   "tasks": [
-    { "id": 1, "title": "Fix navigation bug", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas dictum libero, vel tristique odio pulvinar vitae.", "lane": 1 },
+    { "id": 1, "title": "test", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas dictum libero, vel tristique odio pulvinar vitae.", "lane": 1 },
     { "id": 2, "title": "Release new website", "body": "Hasellus eleifend lacus vitae est ultrices placerat. Nunc at risus id risus venenatis laoreet sit amet cursus neque.", "lane": 1 },
     { "id": 3, "title": "Deploy server on acceptance environment", "body": "Pellentesque pharetra fermentum sapien, aliquet ultrices ligula mattis porttitor.", "lane": 2 },
     { "id": 4, "title": "Complete the registration flow", "body": "In vel commodo ipsum. Duis id ipsum semper, condimentum ipsum sit amet, maximus massa.", "lane": 2 },
