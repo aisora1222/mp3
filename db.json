@@ -6,12 +6,12 @@
     { "id": 4, "title": "Done" }
   ],
   "tasks": [
-    { "id": 1, "title": "test", "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque egestas dictum libero, vel tristique odio pulvinar vitae.", "lane": 1 },
-    { "id": 2, "title": "Release new website", "body": "Hasellus eleifend lacus vitae est ultrices placerat. Nunc at risus id risus venenatis laoreet sit amet cursus neque.", "lane": 1 },
-    { "id": 3, "title": "Deploy server on acceptance environment", "body": "Pellentesque pharetra fermentum sapien, aliquet ultrices ligula mattis porttitor.", "lane": 2 },
-    { "id": 4, "title": "Complete the registration flow", "body": "In vel commodo ipsum. Duis id ipsum semper, condimentum ipsum sit amet, maximus massa.", "lane": 2 },
-    { "id": 5, "title": "Change button color", "body": "Suspendisse ac lorem a neque tempus luctus non aliquam sapien. Cras ut lacus bibendum, placerat nibh eu, tempus neque.", "lane": 3 },
-    { "id": 6, "title": "Change layout for the content page", "body": "Cras tellus ligula, mattis at facilisis eu, ultricies vel elit. Ut aliquam volutpat lacus, a rutrum sem vulputate non.", "lane": 3 },
-    { "id": 7, "title": "Create new database instance", "body": "Curabitur nec sem lorem. Donec venenatis, arcu vitae malesuada consequat, dolor ante placerat mi, in fermentum diam ipsum id libero.", "lane": 4 }
+    { "id": 1, "title": "Grocery", "body": "Banana, Water", "lane": 1 },
+    { "id": 2, "title": "Finish MP3", "body": "Too Hard", "lane": 1 },
+    { "id": 3, "title": "Finish Writing Homework", "body": "Too Many", "lane": 2 },
+    { "id": 4, "title": "Book Plane Ticket", "body": "Around August 9?.", "lane": 2 },
+    { "id": 5, "title": "Look for New Apartment", "body": "Make some candidates", "lane": 3 },
+    { "id": 6, "title": "Go to Bank", "body": "Withdraw money", "lane": 3 },
+    { "id": 7, "title": "Fill up gas", "body": "Speeway in Allston", "lane": 4 }
   ]
 }
